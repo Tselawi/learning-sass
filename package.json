@@ -1,0 +1,22 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "scss": "node-sass --watch src/scss -o src/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tselawi/learning-sass.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tselawi/learning-sass/issues"
+  },
+  "homepage": "https://github.com/Tselawi/learning-sass#readme",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
